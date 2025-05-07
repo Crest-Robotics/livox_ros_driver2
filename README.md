@@ -2,6 +2,8 @@
 
 This is a fork of the Livox Ros Driver 2, set up to colcon build within any subfolder within a ros 2 humble ws. 
 
+**Follow instructions in confluence to [set up the livox in docker](https://crestrobotics.atlassian.net/wiki/x/BYCLAg)**
+
 Livox ROS Driver 2 is the 2nd-generation driver package used to connect LiDAR products produced by Livox, applicable for ROS (noetic recommended) and ROS2 (foxy or humble recommended).
 
   **Note :**
